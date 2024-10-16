@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705213690 source:d:\shenhe\06-inductiveresult\main.c
+	<stdio.h>
+	<stdlib.h>
+

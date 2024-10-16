@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701802653 source:d:\shenhe\08-workevencount\main.c
+	<stdio.h>
+	<stdlib.h>
+

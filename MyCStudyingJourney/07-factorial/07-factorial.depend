@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705214785 source:d:\shenhe\07-factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
